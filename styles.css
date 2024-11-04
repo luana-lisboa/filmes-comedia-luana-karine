@@ -1,8 +1,10 @@
 body {
     color: bisque;
     background: black;
+    margin: 0px;
 }
 
 header {
     border-bottom: solid 2px #571301;
+    margin: 20px;
 }
