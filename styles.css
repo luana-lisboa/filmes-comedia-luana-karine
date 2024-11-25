@@ -44,5 +44,9 @@ font-size: 30px;
             overflow-x: auto;
             gap: 15px;
 
+        }
 
+        section { 
+            padding-left: 20px;
+            padding-right: 20px;
         }
