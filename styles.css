@@ -3,15 +3,16 @@ body {
     background: black;
     margin: 0px;
     font-family: "Sour Gummy", sans-serif;
-
+    margin-bottom: 90px;
 }
 
 header {
-    border-bottom: solid 2px #571301;
+    border-bottom: solid 2px #f0f321;
     padding: 20px;
     font-size: 32px;
     color: #e9bfb4;
 }
+
 
     section {
         background: rgb(37, 37, ,37);
@@ -19,6 +20,7 @@ header {
         padding-top: 80px;
         display: flex;
         justify-content: center;
+
     }
      .chamada-texto {
         margin-right: 5%;
