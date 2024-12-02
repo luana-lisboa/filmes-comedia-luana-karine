@@ -13,8 +13,6 @@ header {
     color: #cba79e;
 }
 
-
-
     section {
         background: rgb(249, 199, 255);
         padding-bottom: 30px;
@@ -38,15 +36,12 @@ font-size: 30px;
         }
 
         img { height: 270px;
-
-
         }
 
         .categoria-videos {
             display: flex;
             overflow-x: auto;
             gap: 15px;
-
         }
 
         .categoria{ 
@@ -67,13 +62,3 @@ font-size: 30px;
         .categoria h2 {
             color: rgb;(178, 83, 255)
         }
-
-
-        .categoria-videos img {
-            opacity: 0.5;
-            height: 200px;
-           }
-   
-           .categoria-videos img :hover {
-               opacity: 1.0;
-               border: 3px solid rgb(128, 0, 102);
