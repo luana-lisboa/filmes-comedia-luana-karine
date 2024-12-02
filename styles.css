@@ -54,7 +54,7 @@ font-size: 30px;
          height: 200px;
         }
 
-        .categoria-videos img :hover {
+        .categoria-videos img: hover {
             opacity: 1.0;
             border: 3px solid rgb(128, 0, 102);
         }
